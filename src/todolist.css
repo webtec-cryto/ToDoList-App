@@ -1,0 +1,40 @@
+.todoitemMain .header input {
+   padding: 30px; 
+   font-size: 16px; 
+   border: 20px solid #FFF;
+   width: 165px; 
+   
+
+}
+ 
+.todoitemMain .header button {
+         padding: 10px; 
+         font-size: 16px; 
+        margin: 10px; 
+        margin-right: 0px; 
+        background-color: #000;
+        color: #FFF; 
+        border: 2px solid #fff; 
+ 
+} 
+
+.todoitemMain .header hoover:button {
+         background-color: #ccc; 
+         border: 20px solid #000; 
+         cursor: pointer; 
+}
+
+.todolistMain .thelist li {
+         color: #fff; 
+         background-color: #fff; 
+         padding: 15px; 
+         margin-bottom: 15px; 
+         border-radius: 5px; 
+         list-style: none; 
+
+} 
+
+ul.thelist {
+     padding: 0px; 
+
+}
